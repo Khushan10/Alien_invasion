@@ -4,4 +4,5 @@ spacebar = fire bullets <br/>
 left key = move left <br/>
 right key = move right <br/>
 esc key = to close game <br/>
-Click on play and enjoy your game and be sure to break the highscore(with limited health ofcz).
+Click on play and enjoy your game and be sure to break the highscore(with limited health ofcz). <br/>
+NOTE -> Run alien_invasion.py on terminal to play game.
