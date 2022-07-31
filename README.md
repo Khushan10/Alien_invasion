@@ -1,5 +1,5 @@
 # Alien_invasion
-An old time most played alien arcade game made using pygame. Sounds on to enjoy bullets firing and aliens screaming. Controls: <br/>
+An old time most played alien arcade game made using pygame(basic). Sounds on to enjoy bullets firing and aliens screaming. Controls: <br/>
 spacebar = fire bullets <br/>
 left key = move left <br/>
 right key = move right <br/>
